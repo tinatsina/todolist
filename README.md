@@ -1,18 +1,18 @@
-# TodoList
+# TodoList 📖
 
 Application for managing todolists for companies with different users, developed using Spring Boot and written in Java
 
-## Developer Tools
+## Developer Tools 🛠️
 
-- VS Code
-- Markdown Lint
-- Sonarlint
-- Postman
+- `VS Code` - text editor using Spring Extension
+- `Markdown Lint` - documentation and markdown linter
+- `Sonarlint` - linter for Java
+- `Postman` - API testing
 
-## Author
+## Author 🎓
 
 developed by Tinaye
 
-## License
+## License 👮🏾
 
-This project is Mulan licensed.
+This project is [Mulan PL V2.0]("/LICENSE") licensed.
